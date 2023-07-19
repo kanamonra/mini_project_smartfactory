@@ -1,2 +1,2 @@
-# mini_project_smartfactory
-Webserver service for window client smart factory management 
+Bootcmap mini project smar tfactory
+- Webserver service for window client smart factory management 
